@@ -8,6 +8,7 @@ Source:		python-gnutls-%{version}.tar.gz
 URL:		http://pypi.python.org/pypi/python-gnutls
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	libgnutls-devel
 BuildRequires:	python-devel
 
 %description
