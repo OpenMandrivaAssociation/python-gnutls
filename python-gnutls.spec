@@ -1,6 +1,6 @@
 Name:		python-gnutls
 Version:	1.1.8
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		Sciences/Other
 License:	LGPL
 Summary:	Python wrapper for the GNUTLS library
