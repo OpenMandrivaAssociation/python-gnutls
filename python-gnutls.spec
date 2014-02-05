@@ -1,10 +1,10 @@
 Name:		python-gnutls
-Version:	1.2.4
+Version:	1.2.5
 Release:	1
 Group:		Sciences/Other
 License:	LGPL
 Summary:	Python wrapper for the GNUTLS library
-Source0:	python-gnutls-%{version}.tar.gz
+Source0:	https://pypi.python.org/packages/source/p/python-gnutls/%{name}-%{version}.tar.gz
 URL:		http://pypi.python.org/pypi/python-gnutls
 BuildRequires:	pkgconfig(gnutls)
 BuildRequires:	python-devel
@@ -63,4 +63,5 @@ a simple API.
   Python wrapper for the GNUTLS library
   http://pypi.python.org/pypi/python-gnutls
 - python-gnutls
+
 
