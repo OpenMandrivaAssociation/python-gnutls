@@ -1,3 +1,4 @@
+%define debug_package %{nil}
 Name:		python-gnutls
 Version:	2.0.0
 Release:	1
