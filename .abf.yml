@@ -1,5 +1,6 @@
 removed_sources:
   python-gnutls-1.2.4.tar.gz: 377453f5c6845dc470a9f4845b74893d0b009324
   python-gnutls-1.2.5.tar.gz: e9d38e45f71cda32b2bf5841b06ac50925d59cd4
-sources:
   python-gnutls-2.0.0.tar.gz: 5de29d66184483f8861e2af561a7f26c56dfe9ed
+sources:
+  python-gnutls-2.0.1.tar.gz: 4ea9d457f59799c37e776867be7596bf53f2857d
