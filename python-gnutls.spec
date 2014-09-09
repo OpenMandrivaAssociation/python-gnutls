@@ -9,6 +9,7 @@ Source0:	https://pypi.python.org/packages/source/p/python-gnutls/%{name}-%{versi
 URL:		http://pypi.python.org/pypi/python-gnutls
 BuildRequires:	pkgconfig(gnutls)
 BuildRequires:	python-devel
+BuildRequires:	python2-devel
 
 %description
 This package provides a high level object oriented wrapper around libgnutls,
