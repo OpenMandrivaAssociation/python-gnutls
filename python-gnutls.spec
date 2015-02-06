@@ -1,7 +1,7 @@
 %define debug_package %{nil}
 Name:		python-gnutls
 Version:	2.0.1
-Release:	1
+Release:	2
 Group:		Sciences/Other
 License:	LGPL
 Summary:	Python wrapper for the GNUTLS library
