@@ -6,7 +6,7 @@ Group:		Sciences/Other
 License:	LGPL
 Summary:	Python wrapper for the GNUTLS library
 Source0:	https://pypi.python.org/packages/source/p/python-gnutls/%{name}-%{version}.tar.gz
-URL:		http://pypi.python.org/pypi/python-gnutls
+URL:		https://pypi.python.org/pypi/python-gnutls
 BuildRequires:	pkgconfig(gnutls)
 BuildRequires:	python-devel
 BuildRequires:	python2-devel
